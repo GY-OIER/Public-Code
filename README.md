@@ -1,6 +1,6 @@
 # Public-Code
 
-地址https://github.com/GY-OIER，
+地址https://github.com/GY-OIER
 
 欢迎各位加入。
 
