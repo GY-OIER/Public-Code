@@ -1,5 +1,7 @@
 # Public-Code
 
+# 请不要滥用此功能
+
 地址https://github.com/GY-OIER
 
 欢迎各位加入。
